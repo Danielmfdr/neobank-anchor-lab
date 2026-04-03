@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.anchor
+.codex
+.solana
+node_modules
+test-ledger
+
+target/
+
+**/*.log
