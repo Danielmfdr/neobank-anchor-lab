@@ -2,6 +2,10 @@
 .env
 .anchor
 .codex
+.agents
+AGENTS.md
+CHECKLIST.md
+PROMPT-CODEX.md
 .solana
 node_modules
 test-ledger
